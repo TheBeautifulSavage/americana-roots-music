@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thebeautifulsavage.github.io/americana-roots-music/sitemap.xml
